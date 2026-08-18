@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-3l9cz0.nuansa138win.cfd/sitemap.xml
